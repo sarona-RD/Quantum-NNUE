@@ -1,7 +1,6 @@
 # Quantum-NNUE
 custom NNUE trained specifically for mate and problem solving.
 
-28.01.2023 - nn-quantum012823.nnue
-
 29.01.2023 - nn-quantum012823.nnue transferred to CCCF.
-29.01.2023 - nn-quantum0021123.nnue transferred to CCCF.
+
+11.02.2023 - nn-quantum021123.nnue transferred to CCCF.
