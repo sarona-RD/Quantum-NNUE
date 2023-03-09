@@ -5,4 +5,6 @@ custom NNUE trained specifically for mate and problem solving.
 
 11.02.2023 - nn-quantum021123.nnue transferred to CCCF.
 
-02.03.2023 - nnquantum020323.nnue transferred to CCCF.
+02.03.2023 - nn-quantum020323.nnue transferred to CCCF.
+
+02.07.2023 - nn-quantum020723.nnue transferred to CCCF.
