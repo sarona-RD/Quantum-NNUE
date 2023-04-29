@@ -11,6 +11,6 @@ custom NNUE trained specifically for mate and problem solving.
 
 04.02.2023 - nn-quantum040223.nnue transferred to Comrades Chess Forum.
 
-04.16.2023 - nn-quantum041623.nnue transferred to Comrades Chess Forum.
+04.16.2023 - nn-quantum041623.nnue transferred to Comrades Chess Forum. (Phoebe default net)
 
 04.29.2023 - nn-quantum042923.nnue transferred to Comrades Chess Forum.
