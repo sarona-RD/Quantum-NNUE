@@ -1,4 +1,4 @@
-# Quantum-NNUE and Quantum-NNUE_E Log
+# Quantum-NNUE and Quantum_E-NNUE Log
 custom NNUE trained specifically for mate and problem solving.
 
 29.01.2023 - nn-quantum012823.nnue transferred to Comrades Computer Chess Forum.
@@ -15,4 +15,4 @@ custom NNUE trained specifically for mate and problem solving.
 
 04.29.2023 - nn-quantum042923.nnue transferred to Comrades Computer Chess Forum.
 
-04.29.2023 - nn-quantum_E042923.nnue transferred to Comrades Computer Chess Forum.
+04.29.2023 - nn-quantum-E_042923.nnue transferred to Comrades Computer Chess Forum.
