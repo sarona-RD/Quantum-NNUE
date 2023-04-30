@@ -15,4 +15,4 @@ custom NNUE trained specifically for mate and problem solving.
 
 04.29.2023 - nn-quantum042923.nnue transferred to Comrades Computer Chess Forum.
 
-04.29.2023 - nn-quantum-E_042923.nnue transferred to Comrades Computer Chess Forum.
+04.30.2023 - nn-quantum-E_042923.nnue transferred to Comrades Computer Chess Forum.
