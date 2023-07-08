@@ -21,4 +21,6 @@ custom NNUE trained specifically for mate and problem solving.
 
 05.18.2023 - nn-quantumE_051823.nnue transferred to Comrades Computer Chess Forum.  
 
-06.07.2023 - nn-quantum060723.nnue transferred to Comrades Computer Chess Forum.  (current Phoebe_060223 default net)
+06.07.2023 - nn-quantum060723.nnue transferred to Comrades Computer Chess Forum.  
+
+07.07.2023 - nn.quantum070723.nnue transferred to Comrades Computer Chess Forum.  (current Phoebe_070623 and Avangard_ExpC default net)
